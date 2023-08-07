@@ -1,5 +1,5 @@
 <h1 align="center">
-<a><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Vithkuqi&size=21&pause=1000&color=000000&center=true&width=595&height=40&lines=Hi+%2C+I+am+Rohan+Bedage+!+Glad+to+see+you+here+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%A4+!++;I'm+Artificial+Intelligence+%26+Machine+Learning+Engineer+!;I+am+a+tech+enthusiast+%26+an+open-source+person+.+;I+am+always+open+to+collaborate+on+projects.+;You+can+connect+with+me+on+Linkedin+(%40rohanbedage)" alt="Typing SVG" /></a>
+<a><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Vithkuqi&size=21&pause=1000&color=656D76FF&center=true&width=595&height=40&lines=Hi+%2C+I+am+Rohan+Bedage+!+Glad+to+see+you+here+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%A4+!++;I'm+Artificial+Intelligence+%26+Machine+Learning+Engineer+!;I+am+a+tech+enthusiast+%26+an+open-source+person+.+;I+am+always+open+to+collaborate+on+projects.+;You+can+connect+with+me+on+Linkedin+(%40rohanbedage)" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">Web Dev | AI & ML</h3>
