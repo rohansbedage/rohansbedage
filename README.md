@@ -34,8 +34,9 @@
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
 
 
-<p> 
+<!----<p> 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohansbedage&show_icons=true&locale=en&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohansbedage&theme=tokyonight" />
-</p>
+</p>--->
+
 
