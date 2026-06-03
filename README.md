@@ -2,7 +2,7 @@
   <a><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=656D76&center=true&width=680&height=45&lines=Hi%2C+I+am+Rohan+Bedage%21+Glad+to+see+you+here+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%A4%21;I%27m+an+Artificial+Intelligence+%26+Machine+Learning+Engineer.;A+tech+enthusiast+and+open-source+developer.;Interested+in+building+practical+solutions+through+technology.;Always+open+to+connecting+with+like-minded+people.;Connect+with+me+on+LinkedIn+(%40rohanbedage)." alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">Web Dev | AI & ML</h3>
+<h3 align="center">Generative AI | LLMs | Computer Vision</h3>
 
 <img alt="Coder GIF" align="right" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
