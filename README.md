@@ -7,11 +7,11 @@
 <img alt="Coder GIF" align="right" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-💻 I'm currently delving into **Generative AI & Deep Learning.**
+💻 Delving into **state space models and cognitive architectures.**
 
-👨🏻‍🤝‍👨🏻 I'm looking to collaborate on **AI, ML & Data Science Projects.**
+👨🏻‍🤝‍👨🏻 Open to collaboration on **generative AI and research-driven projects.**
 
-💬 Ask me about **AI, ML & Web Dev**
+💬 Ask me about **reasoning systems and knowledge retrieval.**
 
 ⚡ Fun fact **When I'm not training models, I'm training my backhand on the badminton court! 🏸**
 <h3>Connect: </h3>
