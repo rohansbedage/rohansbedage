@@ -14,6 +14,8 @@
 💬 Ask me about **reasoning systems and knowledge retrieval.**
 
 🏸 When the terminal is closed, **the badminton court is where I reset.**
+<br/>
+<br/>
 <h3>Connect: </h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-RohanBedage-374151?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/rohanbedage/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-rohansbedage2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rohansbedage2001@gmail.com)](mailto:rohansbedage2001@gmail.com)
