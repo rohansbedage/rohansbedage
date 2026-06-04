@@ -13,7 +13,7 @@
 
 💬 Ask me about **reasoning systems and knowledge retrieval.**
 
-⚡ Fun fact **When I'm not training models, I'm training my backhand on the badminton court! 🏸**
+🏸 When the terminal is closed, **the badminton court is where I reset.**
 <h3>Connect: </h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-RohanBedage-374151?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/rohanbedage/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-rohansbedage2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rohansbedage2001@gmail.com)](mailto:rohansbedage2001@gmail.com)
